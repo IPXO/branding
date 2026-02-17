@@ -10,7 +10,7 @@ Official logos and branding assets for IPXO.
 
 ## Download
 
-- Latest brand pack: https://github.com/IPXO/branding/releases/latest
+- Latest brand pack: https://www.ipxo.com/press-releases/
 - Direct asset paths (stable): `Logo/` and `Symbol/`
 
 ## Quick Usage Rules
