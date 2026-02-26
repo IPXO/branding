@@ -5,7 +5,6 @@ Official logos and branding assets for IPXO.
 <p>
   <img src="Logo/SVG/GRD--1 light background.svg" alt="IPXO logo" width="380" />
   &nbsp;&nbsp;
-  <img src="Symbol/SVG/GRD -- 1.svg" alt="IPXO symbol" width="80" />
 </p>
 
 ## Download
